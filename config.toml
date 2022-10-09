@@ -4,7 +4,7 @@ title = "Prachi's Creative Corner"
 author = "Prachi Sarda"
 copyright = "Copyright © 2008–2022, Prachi Sarda; all rights reserved."
 
-theme = "Swift"
+theme = "swift"
 
 canonifyurls = true
 [permalinks]
