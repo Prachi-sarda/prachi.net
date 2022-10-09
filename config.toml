@@ -1,0 +1,36 @@
+baseURL = "https://prachi.net/"
+languageCode = "en-us"
+title = "Prachi's Creative Corner"
+author = "Prachi Sarda"
+copyright = "Copyright © 2008–2022, Prachi Sarda; all rights reserved."
+
+theme = "Swift"
+
+canonifyurls = true
+[permalinks]
+  "/" = '/:year/:month/:title/'
+
+[params]
+  [params.designer]
+    name = "Prachi"
+    url = "https://prachi.net/"
+  [[params.authors]]
+    name = "Prachi"
+    fullName = "Prachi Sarda" 
+    bio = " Hello, I am Prachi and I am 18. Welcome to my Blog, I hope you have fun!! "
+    photo = "https://prachi.net/myPhotoFile.jpg"
+    url = "https://prachi.net/"
+
+[menu]
+  [[menu.main]]
+    name = "Travel"
+    url = "categories/travel/"
+    weight = 3
+  [[menu.main]]
+    name = "Art"
+    url = "categories/art/"
+    weight = 4
+  [[menu.main]]
+    name = "Festivals"
+    url = "categories/festivals/"
+    weight = 5

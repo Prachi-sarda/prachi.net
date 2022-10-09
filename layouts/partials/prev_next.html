@@ -1,0 +1,9 @@
+<h3>Previously On...</h3>
+<ul class='posts aside'>
+  {{with .Prev}}
+    {{- partial "excerpt" . }}
+  {{end}}
+  {{with .Next}}
+    {{- partial "excerpt" . }}
+  {{end}}
+</ul>
