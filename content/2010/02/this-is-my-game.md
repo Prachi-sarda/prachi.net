@@ -5,6 +5,7 @@ categories:
   - "slice-of-life"
 tags: 
   - "slice-of-life"
+coverImage: "032.jpg"
 ---
 
 ![](images/032.jpg)

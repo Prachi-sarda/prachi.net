@@ -9,6 +9,7 @@ tags:
   - "art"
   - "birthday"
   - "digital-art"
+coverImage: "prachi.png"
 ---
 
 ![](images/prachi.png)

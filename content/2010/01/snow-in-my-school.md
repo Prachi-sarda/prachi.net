@@ -5,6 +5,8 @@ categories:
   - "slice-of-life"
 tags: 
   - "snow"
+coverImage : "005.jpg"
+draft: true
 ---
 
-![](https://prachi.net/wp-content/uploads/2010/01/005.jpg)
+![](images/005.jpg)

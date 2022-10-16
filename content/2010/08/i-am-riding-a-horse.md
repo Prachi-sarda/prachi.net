@@ -5,6 +5,7 @@ categories:
   - "slice-of-life"
 tags: 
   - "slice-of-life"
+coverImage: "IMG_6857.jpg"
 ---
 
-![](https://prachi.net/wp-content/uploads/2010/12/IMG_6857.jpg)
+![](images/IMG_6857.jpg)

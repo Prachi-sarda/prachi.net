@@ -3,8 +3,10 @@ title: "My fairy Cosplay"
 date: "2010-02-14"
 categories: 
   - "appearance"
+  - "slice-of-life"
 tags: 
   - "cosplay"
+coverImage : "029.jpg"
 ---
 
-![](https://prachi.net/wp-content/uploads/2010/02/029.jpg)
+![](images/029.jpg)

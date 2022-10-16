@@ -7,6 +7,7 @@ categories:
 tags: 
   - "family"
 coverImage: "Picture-012.jpg"
+draft: true 
 ---
 
 ![](images/Picture-012.jpg)

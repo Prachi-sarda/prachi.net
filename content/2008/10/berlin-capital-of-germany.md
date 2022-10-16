@@ -17,8 +17,7 @@ coverImage: "img_4094.jpg"
 
 ![](images/wp-1611675222106-494x371.jpg)
 
-Me chillin' with an ice-cream and a snake which reminds me of the snake from Philosophers Stone!
-
+Me chillin' with an ice-cream and a snake which reminds me of the snake from Philosophers Stone! 
 ![](images/img_4063.jpg)
 
 ![](images/img_4100.jpg)

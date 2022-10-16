@@ -6,6 +6,8 @@ categories:
 tags: 
   - "sledge"
   - "snow"
+coverImage: "008.jpg"
 ---
 
-![](https://prachi.net/wp-content/uploads/2010/01/008.jpg)
+![](images/005.jpg)
+![](images/008.jpg)

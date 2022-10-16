@@ -1,10 +1,11 @@
 ---
-title: "happy birthday dadaji"
+title: "Happy Birthday Dadaji"
 date: "2010-02-21"
 categories: 
   - "slice-of-life"
 tags: 
   - "slice-of-life"
+coverImage: "dadaji.jpg"
 ---
 
-![](https://prachi.net/wp-content/uploads/2010/02/dadaji.jpg)
+![](images/dadaji.jpg)

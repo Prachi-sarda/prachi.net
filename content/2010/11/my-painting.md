@@ -4,6 +4,7 @@ date: "2010-11-06"
 categories: 
   - "art"
   - "slice-of-life"
+coverImage: "IMG_7021.jpg"
 ---
 
-![](https://prachi.net/wp-content/uploads/2010/12/IMG_7021.jpg)
+![](images/IMG_7021.jpg)

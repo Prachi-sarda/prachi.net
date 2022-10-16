@@ -1,8 +1,10 @@
 ---
-title: "Temporary Tattoo Vibes"
+title: "Temporary Tattoos"
 date: "2010-01-15"
 categories: 
   - "slice-of-life"
+coverImage: "016.jpg"
+draft: true
 ---
 
 ![](images/016.jpg)

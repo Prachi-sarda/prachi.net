@@ -7,6 +7,9 @@ tags:
   - "travel"
 coverImage: "IMG_7619.jpg"
 ---
+Our trip to Cairo, Egypt (Which is in Africa)  
+These pictures are from The Egyptian Pyramids or The Great Pyramids of Giza, Which are one of the seven Wonders of the world!  
+The Pyramids are located at Giza on the west bank of the River Nile.
 
 ![](images/IMG_7619.jpg)
 
@@ -20,6 +23,4 @@ Us Girls
 
 The whole Family!!
 
-Our trip to Cario, Egypt (Which is in Africa)  
-These pictures are from The Egyptian Pyramids or The Great Pyramids of Giza, Which are one of the seven Wonders of the world!  
-The Pyramids are located at Giza on the west bank of the River Nile.
+

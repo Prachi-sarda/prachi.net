@@ -3,6 +3,8 @@ title: "Prachi with her fears."
 date: "2011-03-25"
 categories: 
   - "slice-of-life"
+coverImage: "IMG_8051.jpg"
+draft: true
 ---
 
-![](https://prachi.net/wp-content/uploads/2011/03/IMG_8051.jpg)
+![](images/IMG_8051.jpg)

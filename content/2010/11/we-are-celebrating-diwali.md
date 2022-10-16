@@ -5,6 +5,7 @@ categories:
   - "festivals"
 tags: 
   - "featured"
+coverImage: "IMG_7003.jpg"
 ---
 
-![](https://prachi.net/wp-content/uploads/2010/12/IMG_7003.jpg)
+![](images/IMG_7003.jpg)

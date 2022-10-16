@@ -7,6 +7,7 @@ categories:
 tags: 
   - "art"
   - "elephant-art"
+coverImage : "004.jpg"
 ---
 
 ![](images/004.jpg)

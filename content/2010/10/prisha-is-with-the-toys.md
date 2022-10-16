@@ -5,6 +5,7 @@ categories:
   - "slice-of-life"
 tags: 
   - "featured"
+coverImage: "IMG_6974.jpg"
 ---
 
-![](https://prachi.net/wp-content/uploads/2010/12/IMG_6974.jpg)
+![](images/IMG_6974.jpg)

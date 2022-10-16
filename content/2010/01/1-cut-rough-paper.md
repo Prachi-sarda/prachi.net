@@ -1,5 +1,5 @@
 ---
-title: "How to recycle waste paper at Home!"
+title: "How to recycle waste paper at home!"
 date: "2010-01-22"
 categories: 
   - "art"
@@ -8,6 +8,7 @@ categories:
 tags: 
   - "art"
   - "craft"
+coverImage: "018.jpg"
 ---
 
 - ![](images/001.jpg)

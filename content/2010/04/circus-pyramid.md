@@ -4,6 +4,9 @@ date: "2010-04-15"
 categories: 
   - "slice-of-life"
   - "travel"
+tags: 
+  - "slice-of-life"
+coverImage: "circus-041.jpg"
 ---
 
-![](https://prachi.net/wp-content/uploads/2010/04/circus-041.jpg)
+![](images/circus-041.jpg)
